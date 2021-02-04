@@ -6,7 +6,7 @@
  #### Download and execute the script:
 
  ```bash
- $ wget https://github.com/tmiland/apt-update/blob/master/apt_update.sh
+ $ wget https://raw.githubusercontent.com/tmiland/apt-update/master/apt_update.sh
  $ chmod +x apt_update.sh
  $ ./apt_update.sh
  ```
