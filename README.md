@@ -19,7 +19,7 @@
   ```
 
   ## Donations 
-  - [PayPal me](https://paypal.me/milanddata)
+  - [PayPal me](https://paypal.me/milandtommy)
   - [BTC] : 33mjmoPxqfXnWNsvy8gvMZrrcG3gEa3YDM
 
   ## Web Hosting
